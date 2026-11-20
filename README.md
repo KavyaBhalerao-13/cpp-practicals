@@ -1,34 +1,38 @@
 
-# C++ Practicals
+# Library Management System
 
-## About
-This repository contains C++ practical programs completed as part of the Object-Oriented Programming curriculum.
+## Project Description
+A console-based Library Management System developed using C++ to manage book records.
 
-## Practicals
-1. C++ Fundamentals
-2. Classes and Objects
-3. Constructors and Rule of Five
-4. RAII and Smart Pointers
-5. Single and Multilevel Inheritance
-6. Runtime Polymorphism
-7. Function and Operator Overloading
-8. Singleton Design Pattern
-9. Templates
-10. Custom Exceptions
-11. CSV File Handling
-12. Library Management System
+## Features
+- Add new books
+- List all books
+- Search books by ID
+- Issue books
+- Return books
+- Store records using CSV files
+- Custom exception handling
 
-## Technologies Used
-- C++
-- Object-Oriented Programming
-- STL
+## Concepts Used
+- Classes and Objects
+- Inheritance
+- Polymorphism
+- Encapsulation
+- STL Vector
 - File Handling
 - Exception Handling
 
-## Output Screenshots
+## How to Run
+1. Open LibraryManagement.cpp in a C++ compiler.
+2. Compile the program.
+3. Run the executable.
+4. Select an option from the menu.
 
-### Practical 8 – Singleton Design Pattern
-![Practical 8 Output](Practical%2008.png)
+## Project Files
+- LibraryManagement.cpp
+- library_books.csv
+- UML_Diagram.png
+- Output.png
 
 ## Author
 Kavya Amol Bhalerao
